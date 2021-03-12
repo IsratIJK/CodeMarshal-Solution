@@ -30,6 +30,7 @@ int main() {
        cout<<"Case"<<" "<<i<<":"<<" "<<r<<endl;
       
    }
+   
 }
 
 
